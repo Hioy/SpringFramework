@@ -2,7 +2,7 @@
 
 组件注册通俗的讲就是往 `BeanFactory` 中添加 `Bean` 对象。组件注册的常见方式有如下五种：
 
-- - 在 `Xml` 文件中配置 `Bean` 信息
+    在 `Xml` 文件中配置 `Bean` 信息
 
 - - 使用 `@Configuration` 与 `@Bean`
 
